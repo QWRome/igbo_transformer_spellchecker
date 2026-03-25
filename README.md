@@ -7,6 +7,8 @@ A transformer-inspired spell checker for the Igbo language, built with React, Ty
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.x-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Vite](https://img.shields.io/badge/Vite-7.x-646CFF?style=for-the-badge&logo=vite)
 
+---
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
@@ -474,7 +476,22 @@ Contributions are welcome! Here are some ways to help:
 
 ## 📄 License
 
+    Copyright © 2026 Roselinemaria Ekwe
 
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as published
+    by the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+Contact me at roselinemariaekwe@gmail.com for further inquiries.
 
 ---
 
